@@ -1,11 +1,12 @@
-# SBA Borrower Bankruptcy -- Loan Discharge Guide [2026]
+# SBA Borrower Bankruptcy - Loan Discharge Guide [2026]
 > Can you file bankruptcy on SBA loans? Personal guarantees, collateral, and discharge options for SBA borrowers. 2026 guide.
 
 ## About
 saborrowerbankruptcy.com is part of the Open Bankruptcy Project (openbankruptcyproject.org), a 501(c)(3) nonprofit building free, open-source tools for bankruptcy court transparency.
 
 ## Key Pages
-- SBA Borrower Bankruptcy -- Loan Discharge Guide: https://saborrowerbankruptcy.com/
+- SBA Borrower Bankruptcy - Loan Discharge Guide: https://saborrowerbankruptcy.com/
+- Privacy Policy: https://saborrowerbankruptcy.com/privacy.html
 
 ## Contact
 - Website: https://openbankruptcyproject.org

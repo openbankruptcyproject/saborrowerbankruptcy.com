@@ -6,8 +6,10 @@ Part of the Open Bankruptcy Project (openbankruptcyproject.org).
 
 ---
 
-## SBA Borrower Bankruptcy -- Loan Discharge Guide [2026]
+## SBA Borrower Bankruptcy - Loan Discharge Guide [2026]
 Source: https://saborrowerbankruptcy.com/
+
+Skip to main content
 
 🌐 Esta pagina esta disponible en Espanol
 
@@ -33,15 +35,15 @@ Compared to bankruptcy: A Chapter 7 discharge eliminates 100% of the unsecured S
 
 Treasury Offset and Hardship Programs
 
-Once the SBA refers your debt to the U.S. Treasury Department, collection escalates significantly. Treasury can intercept federal tax refunds, garnish up to 15% of Social Security benefits, and administratively garnish wages -- all without a court order. There is no statute of limitations on federal debt collection.
+Once the SBA refers your debt to the U.S. Treasury Department, collection escalates significantly. Treasury can intercept federal tax refunds, garnish up to 15% of Social Security benefits, and administratively garnish wages - all without a court order. There is no statute of limitations on federal debt collection.
 
-Hardship determination: You can request a financial hardship review from Treasury's Bureau of the Fiscal Service. If approved, Treasury suspends active collection for a set period (usually 6-12 months). This is not forgiveness -- the debt remains and collection can resume.
+Hardship determination: You can request a financial hardship review from Treasury's Bureau of the Fiscal Service. If approved, Treasury suspends active collection for a set period (usually 6-12 months). This is not forgiveness - the debt remains and collection can resume.
 
-Compared to bankruptcy: The automatic stay protection in bankruptcy immediately halts all Treasury collection -- garnishments, offsets, and lawsuits. Upon discharge, the discharge injunction permanently bars Treasury from collecting. A hardship determination only pauses collection temporarily.
+Compared to bankruptcy: The automatic stay protection in bankruptcy immediately halts all Treasury collection - garnishments, offsets, and lawsuits. Upon discharge, the discharge injunction permanently bars Treasury from collecting. A hardship determination only pauses collection temporarily.
 
 EIDL Advance Forgiveness vs EIDL Loan Discharge
 
-Many borrowers confuse the EIDL Advance (grant) with the EIDL loan. The EIDL Advance -- up to $10,000 initially, then an additional $5,000 Supplemental Targeted Advance -- was a grant that did not need to be repaid. If you received the advance, it is already forgiven.
+Many borrowers confuse the EIDL Advance (grant) with the EIDL loan. The EIDL Advance - up to $10,000 initially, then an additional $5,000 Supplemental Targeted Advance - was a grant that did not need to be repaid. If you received the advance, it is already forgiven.
 
 The EIDL loan itself (up to $2 million at 3.75% over 30 years) is not forgivable. There is no SBA program to forgive EIDL loan principal. If you cannot make payments, your options are OIC, negotiated settlement, or bankruptcy.
 
@@ -53,13 +55,13 @@ Before your debt reaches Treasury, you may be able to negotiate directly with th
 
 Key factors: The SBA is more likely to accept a lower settlement if the loan is unsecured or under-collateralized, if you have minimal attachable assets, if the cost of continued collection exceeds the expected recovery, or if you can pay the settlement amount quickly (30-90 days).
 
-Tax consequences: Forgiven debt over $600 generates a 1099-C from the SBA. You must report this as income unless you were insolvent at the time of cancellation. Bankruptcy discharge does not generate a 1099-C -- discharged debt is excluded from income under IRC Section 108(a)(1)(A). See 1099-C cancellation of debt in bankruptcy for details.
+Tax consequences: Forgiven debt over $600 generates a 1099-C from the SBA. You must report this as income unless you were insolvent at the time of cancellation. Bankruptcy discharge does not generate a 1099-C - discharged debt is excluded from income under IRC Section 108(a)(1)(A). See 1099-C cancellation of debt in bankruptcy for details.
 
 When Bankruptcy Is the Better Option
 
 Bankruptcy is generally superior to SBA forgiveness programs when:
 
-1. You owe more than just SBA debt. Bankruptcy addresses all debts simultaneously -- credit cards, medical bills, deficiency balances, personal guarantees, and SBA loans. OIC only covers the SBA loan.
+1. You owe more than just SBA debt. Bankruptcy addresses all debts simultaneously - credit cards, medical bills, deficiency balances, personal guarantees, and SBA loans. OIC only covers the SBA loan.
 
 2. You cannot afford the OIC settlement amount. Even at 50% of the balance, a $500,000 SBA loan requires a $250,000 lump-sum payment. Chapter 7 requires no payment to unsecured creditors.
 
@@ -124,7 +126,7 @@ SBA SOP 50 57
 7(a) Loan Servicing and Liquidation (includes OIC)
 
 Treasury Offset Program
-Bureau of the Fiscal Service -- federal debt collection
+Bureau of the Fiscal Service - federal debt collection
 
 IRC Section 108
 Income exclusion for discharged debt in bankruptcy
@@ -163,7 +165,7 @@ Tax consequences of forgiven debt
 
 Your Next Questions
 
-Real users ask these next -- we built the answers.
+Real users ask these next - we built the answers.
 
 Chapter 7 vs Chapter 13
 
@@ -297,6 +299,7 @@ Automatic Stay
 Exemptions by State
 Means Test
 File Without a Lawyer
+Rule 9037 PII Scanner
 
 Free bankruptcy education for the public interest. Not legal advice.
 If you need legal help, contact a licensed attorney in your state.
@@ -309,3 +312,77 @@ Terms
 ♥ Sponsor
 
 Our research was cited by the federal judiciary as Suggestion 26-BK-3
+
+Cited by the Federal Rules Committee (26-BK-3)
+
+---
+
+## Privacy Policy - saborrowerbankruptcy.com
+Source: https://saborrowerbankruptcy.com/privacy.html
+
+saborrowerbankruptcy.com
+
+Home
+Privacy
+
+Privacy Policy
+
+How we handle your data. Short version: we don't sell it, share it, or use it for advertising.
+
+Data We Collect
+
+We use Google Analytics (GA4) to measure aggregate site traffic. This includes page views, session duration, approximate geographic region (country and city level), and device type. We do not collect names, email addresses, or personally identifiable information through analytics.
+
+Aggregate event data from Google Analytics is also exported to Google BigQuery for research use. The BigQuery data is used only for internal trajectory analysis and network health reports, is not shared with third parties, and is not used for advertising.
+
+What We Don't Do
+
+We do not sell data. We do not run advertising. We do not collect financial information. We do not use retargeting. We do not share any user data with attorneys, law firms, creditors, debt collectors, or legal service providers.
+
+Specifically, we do not enable Google Signals, Google Ads integration, User-ID collection, or any cross-device tracking feature in Google Analytics. GA4 operates in aggregate-traffic-measurement mode only on this site.
+
+Cookies
+
+We use only first-party cookies set by Google Analytics for aggregate traffic measurement. We do not use advertising cookies, tracking pixels, or third-party analytics cookies.
+
+Third-Party Services
+
+Google Analytics (GA4) - aggregate traffic measurement
+
+Google BigQuery - aggregate event data warehouse for research use only; not shared, not used for advertising
+
+Google Search Console - search query measurement (clicks, impressions, our own page rankings)
+
+GitHub Pages - hosting
+
+Contact Forms & Email
+
+This site may link to contact forms or email addresses operated by the Open Bankruptcy Project. Any data you submit through those channels is handled under the Open Bankruptcy Project master privacy policy, which governs all sites in this network.
+
+Children's Privacy
+
+This site is not directed at children under 13. We do not knowingly collect information from children.
+
+Data Retention
+
+Analytics data is retained for 14 months per Google's standard retention settings. After that window, individual event data is automatically deleted by Google; aggregate report metrics remain available.
+
+Your Rights
+
+You may request deletion of any personal data we hold by contacting info@openbankruptcyproject.org. California residents have additional rights under CCPA. EU residents have additional rights under GDPR. All such requests are handled by the Open Bankruptcy Project.
+
+Network Policy
+
+This site is part of the Bankruptcy Transparency Network operated by the Open Bankruptcy Project, a 501(c)(3) nonprofit (determination pending). The same privacy standards apply across every site in the network. The authoritative master policy is maintained at https://openbankruptcyproject.org/privacy.html.
+
+Changes
+
+We may update this policy from time to time. Changes are reflected on the master policy first and then mirrored across all network sites. Check the master policy for the most current version.
+
+Effective: March 30, 2026  |  Updated: April 11, 2026
+
+Home  ·  Privacy  ·  Open Bankruptcy Project
+
+Part of the Bankruptcy Transparency Network. Educational information only - not legal advice.
+
+No ads. No affiliate links. No data sold. Supported by donations.
